@@ -1,8 +1,8 @@
-# Expense Tracker app was built to shows the net balance, income, expense, and list of all transactions so far. It also has the functionality to add new transactions and delete the existing transaction along with reflecting the new changes. 
+# EXPENSE TRACKER APP
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Expense Tracker app was built to shows the net balance, income, expense, and list of all transactions so far. It also has the functionality to add new transactions and delete the existing transaction along with reflecting the new changes. 
 
 ## Available Scripts
 
